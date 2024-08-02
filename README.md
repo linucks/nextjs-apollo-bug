@@ -1,3 +1,5 @@
+Repository to demonstrate the issue for Next.js [Bug 68413](https://github.com/vercel/next.js/issues/68413)
+
 This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues) with the `app/` directory.
 
 ## Getting Started
